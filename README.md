@@ -2,7 +2,7 @@
 
 Esta feature compõe a documentação interativa e visual da arquitetura de banco de dados (PostgreSQL) do **Start CRM**. Ela serve como uma fonte única de verdade para a engenharia, consolidando o Diagrama Entidade-Relacionamento (DER), o dicionário de dados, decisões de negócios e o fluxo de migrações.
 
-**Acesse a demonstração interativa:** [Visualizar no Vercel](https://v0-erd-do-start-crm.vercel.app/)
+**Acesse a demonstração interativa:** (https://v0-erd-do-start-crm.vercel.app/)
 
 ## Sobre a Feature
 
